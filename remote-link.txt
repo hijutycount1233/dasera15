@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lil-eds-licensing-democrats.trycloudflare.com/vnc.html
+URL       : https://allocation-pirates-masters-cut.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-03 21:15:12
+Created   : 2026-08-04 03:23:30
 =======================================================
