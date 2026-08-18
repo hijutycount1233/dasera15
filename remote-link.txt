@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://birthday-election-badge-printer.trycloudflare.com/vnc.html
+URL       : https://oven-andrews-exam-christ.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-18 10:38:40
+Created   : 2026-08-18 15:41:21
 =======================================================
