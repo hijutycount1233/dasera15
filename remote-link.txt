@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://vault-removable-completely-wear.trycloudflare.com/vnc.html
+URL       : https://upgrade-genre-regular-specialty.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 05:38:35
+Created   : 2026-08-19 10:38:54
 =======================================================
