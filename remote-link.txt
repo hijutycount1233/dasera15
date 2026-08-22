@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lat-shortly-downloads-origin.trycloudflare.com/vnc.html
+URL       : https://durham-switches-consultancy-pride.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-22 15:30:01
+Created   : 2026-08-22 20:33:09
 =======================================================
