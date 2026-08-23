@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pic-hip-defensive-version.trycloudflare.com/vnc.html
+URL       : https://publications-layer-reid-proposition.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-23 15:30:54
+Created   : 2026-08-23 20:32:58
 =======================================================
