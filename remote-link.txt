@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://entrepreneur-integer-engage-libraries.trycloudflare.com/vnc.html
+URL       : https://die-enhancements-camp-alerts.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-24 10:45:24
+Created   : 2026-08-24 15:49:02
 =======================================================
